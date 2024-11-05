@@ -44,18 +44,30 @@ h6 {
   color: #FFFFFF
 }
 .strong {
+font-weight: 700;
 }
 .italic {
+font-style: italic;
 }
 .marked {
+background-color: yellow;
+color: initial;
 }
 .small {
+font-size: small;
+color: #F70703;
 }
 .overlined {
+text-decoration: line-through;
 }
 .underlined {
+text-decoration: underline;
 }
 .subscript {
+vertical-align: sub;
+font-size: 1rem;
 }
 .superscript {
+vertical-align: super;
+font-size: 1rem;
 }
